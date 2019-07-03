@@ -637,7 +637,7 @@ input, select, textarea {
 
 /* Avatar */
 
-	.avatar {
+	avatar {
 		border: 1
 		position: relative;
 		border-radius: 50%;
