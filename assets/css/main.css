@@ -1671,7 +1671,6 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-/* Mobile */
 
 	@media screen and (max-width: 780px) {
 
