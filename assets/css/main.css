@@ -646,6 +646,17 @@ input, select, textarea {
 		line-height: inherit;
     }
 
+        @media screen and (max-width: 780px) {
+            .avatar {
+                border: 1
+                position: relative;
+                border-radius: 50%;
+                width: 2.2rem;
+                height: 2.2rem;
+                line-height: inherit;
+            }
+        }
+
 /* Image */
 
 	.image {
