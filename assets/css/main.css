@@ -1671,6 +1671,7 @@ input, select, textarea {
 			opacity: 0;
 		}
 
+/* Mobile */
 
 	@media screen and (max-width: 780px) {
 
@@ -1680,7 +1681,7 @@ input, select, textarea {
 				border: 1;
 				position: relative;
 				border-radius: 50%;
-				width: 4.6rem;
-				height: 4.6rem;
+				width: 8rem;
+				height: 8rem;
 				line-height: inherit;
     }
