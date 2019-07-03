@@ -731,17 +731,6 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 780px) {
-            .avatar {
-                border: 1
-                position: relative;
-                border-radius: 50%;
-                width: 2.2rem;
-                height: 2.2rem;
-                line-height: inherit;
-            }
-        }
-
 /* List */
 
 	ol {
@@ -1681,3 +1670,18 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+/* Mobile */
+
+	@media screen and (max-width: 780px) {
+
+		/* Avatar */
+
+			.avatar {
+				border: 1;
+				position: relative;
+				border-radius: 50%;
+				width: 4.6rem;
+				height: 4.6rem;
+				line-height: inherit;
+    }
