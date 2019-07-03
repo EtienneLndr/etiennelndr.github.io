@@ -1681,7 +1681,8 @@ input, select, textarea {
 				border: 1;
 				position: relative;
 				border-radius: 50%;
-				width: 30rem;
-				height: 30rem;
+				width: 4.5rem;
+				height: 4.5rem;
 				line-height: inherit;
+			}
     }
